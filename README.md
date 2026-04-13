@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f2fe,4facfe&height=220&section=header&text=Luiz%20Sanchez%20Peyes&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20Solutions&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f2fe,4facfe&height=220&section=header&text=Luiz&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Tech%20Innovator&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%">
 
 <div align="center">
-  <i>Architecting scalable systems with clean code and modern technology.</i>
+  <i>Architecting scalable systems with clean code and intelligent solutions.</i>
 </div>
 
 <br>
@@ -12,12 +12,12 @@
   <tr>
     <td width="55%" valign="top">
       <h3>👤 The Developer</h3>
-      <p>I am a highly driven <b>BSIT Graduate</b> specializing in modern web architecture, AI integrations, and cloud deployments. I bridge the gap between complex operational bottlenecks and seamless user experiences.</p>
+      <p>I focus on modern web architecture, AI integrations, and game development. I enjoy bridging the gap between complex operational bottlenecks and seamless user experiences.</p>
       <h3>🎯 Core Competencies</h3>
       <ul>
-        <li>Full-Stack Application Development</li>
-        <li>AI Model Integration & Cloud Architecture</li>
-        <li>Enterprise Hardware & Server Optimization</li>
+        <li>Full-Stack Web Development</li>
+        <li>AI Model Integration & Logic Routing</li>
+        <li>Game Dev & Server Network Configuration</li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
@@ -32,11 +32,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🧠 BuildX</h3>
-      <p align="center">An innovative, AI-mentored drag-and-drop website builder powered by <b>AWS Bedrock</b>. Designed for rapid deployment and seamless user experience.</p>
+      <p align="center">An innovative, AI-mentored drag-and-drop website builder. Designed for rapid deployment and seamless user experience.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎫 IT Ticketing System</h3>
-      <p align="center">A live, enterprise-grade deployment built to streamline technical support, track corporate requests, and ensure zero-downtime operations.</p>
+      <p align="center">A live deployment built to streamline technical support, track requests, and ensure organized internal operations.</p>
     </td>
   </tr>
 </table>
@@ -45,8 +45,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nodejs,express,mysql,postgres,aws,git,github,vscode,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,unity,github,vscode&perline=10" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-FFFFFF?style=for-the-badge&logo=tailscale&logoColor=black" />
 </p>
 
 ### ✦ 𝗕𝗲𝘆𝗼𝗻𝗱 𝗧𝗵𝗲 𝗦𝗰𝗿𝗲𝗲𝗻
