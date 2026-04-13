@@ -74,6 +74,6 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/n/peyes-luiz-9b62b82a3/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&color=0077b5"></a>
+  <a href="https://www.linkedin.com/in/peyes-luiz-9b62b82a3"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&color=0077b5"></a>
   <a href="mailto:luizp.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&color=D14836"></a>
 </div>
