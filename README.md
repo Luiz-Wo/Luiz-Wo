@@ -1,4 +1,4 @@
-<h1 align="center">Kamusta Mundo! 👋 I'm Luiz Sanchez Peyes</h1>
+<h1 align="center">Hello! Im Luiz</h1>
 
 <h3 align="center">A Passionate BSIT Graduating Student focused on Web Development, AI Integration, and AWS Cloud Solutions</h3>
 
