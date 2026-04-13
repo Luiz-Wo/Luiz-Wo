@@ -10,10 +10,12 @@
 
 ---
 
-### 🚀 The "Wow" Projects
-What I've been building recently:
+### 🚀 About My Journey
+Having recently wrapped up an extensive IT internship where I deployed live enterprise solutions, I am now transitioning fully into the tech industry. I specialize in building scalable web applications and integrating modern AI cloud services to solve real-world operational bottlenecks. 
+
+**What I've been building recently:**
 * 🧠 **BuildX:** An AI-mentored drag-and-drop website builder powered by **AWS Bedrock**.
-* 🎫 **Enterprise IT Ticketing System:** A fully deployed, live system designed to streamline technical support requests and internal operations.
+* 🎫 **Enterprise IT Ticketing System:** A fully deployed, live system designed to streamline technical support requests and internal corporate operations.
 
 ---
 
@@ -37,16 +39,21 @@ What I've been building recently:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Wo&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luiz-Wo&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-Wo&theme=radical&hide_border=true&background=0D1117" width="48%" />
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiz-Wo&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
 ### 🎮 Beyond the Code
-When I'm not writing code or deploying servers, you'll probably find me:
-- 🛠️ Tearing down and building PCs, undervolting GPUs for max efficiency, and keeping hardware running at peak performance.
-- 🎯 Grinding ranks and optimizing framerates in competitive games like Valorant and GTA Online. 
-- 🏍️ Getting my hands dirty with scooter maintenance and customization.
+When I'm not writing code, deploying servers, or optimizing my PC's thermals, you'll find me seeking adrenaline and precision:
+- 🪂 **Adrenaline Seeker:** Pushing limits through skydiving, racing, and hitting the archery range.
+- 🏍️ **Gearhead:** Getting my hands dirty with scooter maintenance and custom modifications.
+- 🎯 **Tactical Gamer:** Grinding ranks and optimizing framerates in Valorant and surviving the drops in Icarus.
+- 🎳 **Precision Sports:** Unwinding at the bowling alley or the golf course.
 
 ---
 
