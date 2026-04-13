@@ -1,21 +1,33 @@
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Luiz!+👋;BSIT+Graduating+Student;Web+Developer+%7C+AI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=600&lines=>+System.boot(Luiz_Sanchez_Peyes);>+Initializing_BSIT_Degree..._100%25;>+Deploying_BuildX_AI_Mentor..._Done;>+IT_Ticketing_System_Online...;>+Status:+Ready_for_deployment." alt="Terminal Typing" />
   </a>
-</p>
+</div>
 
 <p align="center">
-  <em>Transforming complex logic into seamless, user-centric systems.</em>
+  <em>Architecting robust web applications and integrating intelligent cloud solutions.</em>
 </p>
 
 ---
 
-### 🚀 About My Journey
-Having recently wrapped up an extensive IT internship where I deployed live enterprise solutions, I am now transitioning fully into the tech industry. I specialize in building scalable web applications and integrating modern AI cloud services to solve real-world operational bottlenecks. 
-
-**What I've been building recently:**
+### 🚀 Core Projects
 * 🧠 **BuildX:** An AI-mentored drag-and-drop website builder powered by **AWS Bedrock**.
 * 🎫 **Enterprise IT Ticketing System:** A fully deployed, live system designed to streamline technical support requests and internal corporate operations.
+
+---
+
+<details>
+  <summary><b>⚙️ [System.Diagnostics] - <i>Click to execute hardware & logic scan</i></b></summary>
+  <br>
+  <blockquote>
+    <p><i>Initiating deep scan on operational capabilities...</i></p>
+    <ul>
+      <li><b>Hardware Optimization:</b> Proficient in custom PC builds, GPU undervolting, and thermal maintenance (repasting/cooling efficiency) for peak rendering and deployment speeds.</li>
+      <li><b>Network & Support:</b> Hands-on enterprise deployment experience, ensuring zero-downtime ticketing environments.</li>
+      <li><b>Mobile Workspace:</b> Configured hybrid setups for high-efficiency coding and database management on the go.</li>
+    </ul>
+  </blockquote>
+</details>
 
 ---
 
@@ -42,18 +54,13 @@ Having recently wrapped up an extensive IT internship where I deployed live ente
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-Wo&theme=radical&hide_border=true&background=0D1117" width="48%" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiz-Wo&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
 ---
 
 ### 🎮 Beyond the Code
-When I'm not writing code, deploying servers, or optimizing my PC's thermals, you'll find me seeking adrenaline and precision:
-- 🪂 **Adrenaline Seeker:** Pushing limits through skydiving, racing, and hitting the archery range.
-- 🏍️ **Gearhead:** Getting my hands dirty with scooter maintenance and custom modifications.
-- 🎯 **Tactical Gamer:** Grinding ranks and optimizing framerates in Valorant and surviving the drops in Icarus.
-- 🎳 **Precision Sports:** Unwinding at the bowling alley or the golf course.
+When I'm away from the terminal, I focus on precision and adrenaline:
+- 🪂 **Adrenaline & Precision:** Pushing limits through skydiving, racing, archery, and competitive golf.
+- 🏍️ **Mechanics:** Modifying and tuning setups for optimal performance on the road.
+- 🎯 **Tactical Gaming:** Grinding high-stakes lobbies and optimizing frame timings in competitive shooters and survival games.
 
 ---
 
