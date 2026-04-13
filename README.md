@@ -6,7 +6,7 @@
 
 <br>
 
-### ✦ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 & 𝗦𝘁𝗮𝘁𝘀
+### ✦ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 & 𝗦𝘁𝗮𝘁𝘂𝘀
 
 <table align="center" width="100%">
   <tr>
@@ -20,8 +20,10 @@
         <li>Game Dev & Server Network Configuration</li>
       </ul>
     </td>
-    <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Wo&show_icons=true&bg_color=00000000&hide_border=true&title_color=4facfe&icon_color=4facfe&text_color=8b949e" alt="Stats" />
+    <td width="45%" valign="top">
+      <h3>🚀 Current Status</h3>
+      <p><b>🟢 Open for Freelance & Collaborative Projects</b></p>
+      <p>I am currently available for freelance web development, system deployments, and IT optimization projects. If your business needs a custom system to streamline operations, let's connect!</p>
     </td>
   </tr>
 </table>
@@ -72,6 +74,6 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL_HERE/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&color=0077b5"></a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS_HERE"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&color=D14836"></a>
+  <a href="https://www.linkedin.com/in/n/peyes-luiz-9b62b82a3/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&color=0077b5"></a>
+  <a href="mailto:luizp.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&color=D14836"></a>
 </div>
