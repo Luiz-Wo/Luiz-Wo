@@ -1,80 +1,72 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f2fe,4facfe&height=220&section=header&text=Luiz%20Sanchez%20Peyes&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20Solutions&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%">
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=600&lines=>+System.boot(Luiz_Sanchez_Peyes);>+Initializing_BSIT_Degree..._100%25;>+Deploying_BuildX_AI_Mentor..._Done;>+IT_Ticketing_System_Online...;>+Status:+Ready_for_deployment." alt="Terminal Typing" />
-  </a>
+  <i>Architecting scalable systems with clean code and modern technology.</i>
 </div>
 
-<p align="center">
-  <em>Architecting robust web applications and integrating intelligent cloud solutions.</em>
-</p>
+<br>
 
----
+### ✦ 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 & 𝗦𝘁𝗮𝘁𝘀
 
-### 🚀 Core Projects
-* 🧠 **BuildX:** An AI-mentored drag-and-drop website builder powered by **AWS Bedrock**.
-* 🎫 **Enterprise IT Ticketing System:** A fully deployed, live system designed to streamline technical support requests and internal corporate operations.
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👤 The Developer</h3>
+      <p>I am a highly driven <b>BSIT Graduate</b> specializing in modern web architecture, AI integrations, and cloud deployments. I bridge the gap between complex operational bottlenecks and seamless user experiences.</p>
+      <h3>🎯 Core Competencies</h3>
+      <ul>
+        <li>Full-Stack Application Development</li>
+        <li>AI Model Integration & Cloud Architecture</li>
+        <li>Enterprise Hardware & Server Optimization</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Wo&show_icons=true&bg_color=00000000&hide_border=true&title_color=4facfe&icon_color=4facfe&text_color=8b949e" alt="Stats" />
+    </td>
+  </tr>
+</table>
 
----
+### ✦ 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-<details>
-  <summary><b>⚙️ [System.Diagnostics] - <i>Click to execute hardware & logic scan</i></b></summary>
-  <br>
-  <blockquote>
-    <p><i>Initiating deep scan on operational capabilities...</i></p>
-    <ul>
-      <li><b>Hardware Optimization:</b> Proficient in custom PC builds, GPU undervolting, and thermal maintenance (repasting/cooling efficiency) for peak rendering and deployment speeds.</li>
-      <li><b>Network & Support:</b> Hands-on enterprise deployment experience, ensuring zero-downtime ticketing environments.</li>
-      <li><b>Mobile Workspace:</b> Configured hybrid setups for high-efficiency coding and database management on the go.</li>
-    </ul>
-  </blockquote>
-</details>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 BuildX</h3>
+      <p align="center">An innovative, AI-mentored drag-and-drop website builder powered by <b>AWS Bedrock</b>. Designed for rapid deployment and seamless user experience.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎫 IT Ticketing System</h3>
+      <p align="center">A live, enterprise-grade deployment built to streamline technical support, track corporate requests, and ensure zero-downtime operations.</p>
+    </td>
+  </tr>
+</table>
 
----
-
-### 💻 Arsenal & Tech Stack
+### ✦ 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝘁𝗮𝗰𝗸
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nodejs,express,mysql,postgres,aws,git,github,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,react,nodejs,express,mysql,postgres,aws,git,github,vscode,figma&perline=14" />
   </a>
 </p>
 
----
+### ✦ 𝗕𝗲𝘆𝗼𝗻𝗱 𝗧𝗵𝗲 𝗦𝗰𝗿𝗲𝗲𝗻
 
-### ⚡ GitHub Analytics
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>⚙️ Hardware & Engineering</b><br>
+      Optimizing system thermals, building custom PC rigs, and hands-on mechanical tuning for my daily rides.
+    </td>
+    <td width="50%" valign="top">
+      <b>⚡ Adrenaline & Precision</b><br>
+      Pushing limits through skydiving, track racing, archery, and optimizing strategies in tactical games.
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Luiz-Wo&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Luiz-Wo Trophies" />
-  </a>
-</p>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Wo&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiz-Wo&theme=radical&hide_border=true&background=0D1117" width="48%" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL_HERE/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&color=0077b5"></a>
+  <a href="mailto:YOUR_EMAIL_ADDRESS_HERE"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&color=D14836"></a>
 </div>
-
----
-
-### 🎮 Beyond the Code
-When I'm away from the terminal, I focus on precision and adrenaline:
-- 🪂 **Adrenaline & Precision:** Pushing limits through skydiving, racing, archery, and competitive golf.
-- 🏍️ **Mechanics:** Modifying and tuning setups for optimal performance on the road.
-- 🎯 **Tactical Gaming:** Grinding high-stakes lobbies and optimizing frame timings in competitive shooters and survival games.
-
----
-
-### 🤝 Let's Collaborate!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL_HERE/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS_HERE">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Luiz-Wo&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Views" />
-</p>
